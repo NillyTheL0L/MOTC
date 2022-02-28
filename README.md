@@ -6,7 +6,7 @@ my own theme collection contains a collection of themes made by me :)
 **Use install.sh to install themes**
 
 > Changelogs
-> New freishure theme
+> New araya theme
 
 Themes:
 
@@ -21,3 +21,7 @@ Themes:
 
 **Freishure**
 ![Screenshot from 2022-02-27 20-23-22](https://user-images.githubusercontent.com/97253814/155904404-8cf5b310-cbab-4ab0-ad6a-f3b061f8f009.png)
+
+**Araya Modern**
+![Screenshot from 2022-02-28 11-56-49](https://user-images.githubusercontent.com/97253814/156006896-e6788ab4-6233-4257-bd03-51cd542e2a91.png)
+
